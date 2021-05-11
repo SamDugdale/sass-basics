@@ -1,4 +1,24 @@
  
+h1 {
+    font-family: Bitter, Georgia, serif;
+ 
+    /* if you want to use the italic version */
+    font-style: italic;
+}
+
+// Basic Page Styles
 body {
+    text-align: center;
+    font: 1em/1.5 Georgia, serif;
     color: #333;
 }
+ 
+a {
+    text-decoration: none;
+}
+ 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
